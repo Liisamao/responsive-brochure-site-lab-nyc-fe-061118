@@ -55,7 +55,7 @@ img{
 }
 .username{
     position: relative;
-    bottom: 50%;
+    right:10px;
     left:60%;
     color:white;
     font-size:50px;
