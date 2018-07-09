@@ -54,7 +54,7 @@ img{
     text-align: center;
 }
 .username{
-    position: relative;
+    position: absolute;
     right:10px;
     color:white;
     font-size:50px;
